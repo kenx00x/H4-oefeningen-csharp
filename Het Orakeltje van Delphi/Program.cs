@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Het_Orakeltje_van_Delphi
 {
     class Program
